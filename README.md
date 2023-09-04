@@ -9,8 +9,6 @@ Let's connect and build something great together!
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/jack-hatton-481167216/)
 
-![Jackary522's Stats](https://github-readme-stats.vercel.app/api?username=jackary522&show_icons=true&theme=tokyonight&bg_color=00000000&rank_icon=github)
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -49,3 +47,5 @@ Let's connect and build something great together!
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+![Jackary522's Stats](https://github-readme-stats.vercel.app/api?username=jackary522&show_icons=true&theme=tokyonight&bg_color=00000000&rank_icon=github)
