@@ -48,4 +48,4 @@ Let's connect and build something great together!
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-![Jackary522's Stats](https://github-readme-stats.vercel.app/api?username=jackary522&show_icons=true&theme=tokyonight&bg_color=00000000&rank_icon=github)
+<!-- ![Jackary522's Stats](https://github-readme-stats.vercel.app/api?username=jackary522&show_icons=true&theme=tokyonight&bg_color=00000000&rank_icon=github) -->
