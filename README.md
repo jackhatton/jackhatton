@@ -1,15 +1,14 @@
 # Hello there, I'm Jack!
 
-I am a passionate Full Stack Engineer with a knack for creating robust and efficient systems. 
-I have a deep curiosity and enthusiasm for diving into the intricate world of Database technologies and am certified in Data Warehousing and Database Administration for many of today's common technologies.
-Exploring DevOps landscapes and striving for operational excellence is something I thrive on, as automation and efficiency are two of my favorite words.
-I continue to always be on the lookout to collaborate, learn, and innovate.
+I'm a Software Engineer with a strong interest in building reliable, scalable systems. I'm exploring the DevOps space, with a focus on automation and operational efficiency.
+
+I'm always open to learning, collaborating, and building tools that solve real problems.
 
 Let's connect and build something great together!
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/jack-hatton-481167216/)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -22,13 +21,13 @@ Let's connect and build something great together!
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->
 <!-- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) -->
 
-### Web Technologies
+<!--### Web Technologies
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 <!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
 <!-- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
 
-### Other Languages
+<!--### Other Languages
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,7 +37,7 @@ Let's connect and build something great together!
 <!-- ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) -->
 
-### Misc. Technologies
+<!-- ### Misc. Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
